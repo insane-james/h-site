@@ -24,7 +24,7 @@ h4 {
 }
 
 a {
-	color:#aaaaaa;
+	color:#E8EED1;
 }
 
 hr {
@@ -42,4 +42,20 @@ button {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #CCCBAE;
+  text-align: center;
+}
+
+.darker {
+	color:#AAA280;
+	font-size:12px;
+	border:1px solid #AAA280;
+	padding:5px;
 }
